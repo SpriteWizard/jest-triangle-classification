@@ -1,0 +1,24 @@
+{
+  "name": "jest-triangle-classification",
+  "version": "1.0.0",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpriteWizard/jest-triangle-classification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SpriteWizard/jest-triangle-classification/issues"
+  },
+  "homepage": "https://github.com/SpriteWizard/jest-triangle-classification#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
